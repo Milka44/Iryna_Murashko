@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Iryna Murashko
+ 👋 Hi, I’m Iryna Murashko.
+ 
   I'm QA Engineer with over 3 years of hands-on experience in ensuring the excellence of diverse products, including websites, CRM systems, CMS, eCommerce platforms, mobile banking applications, payment solutions. Beyond QA, I have also cultivated expertise in UI/UX design, business analysis, and project management, contributing to a holistic understanding of the software development lifecycle. Enthusiastic about digital products and dedicated to actively participating in their development. Committed to delivering high-quality and user-friendly digital solutions. I like to work with both my hands and my head, I like to optimize and automate routine processes to gain time for more interesting tasks.
 
 So here, on my GitHub repository, you can find some of my solutions for creating big data files for tests, using JSON files, test cases for running in Postman or via CLI.

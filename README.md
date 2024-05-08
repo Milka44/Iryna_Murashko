@@ -7,9 +7,9 @@ I want to optimize and automate routine processes to gain time for more interest
 
 So here, on my GitHub repository, you can find some of my solutions for creating big data files for tests, using JSON files, and test-cases for running in Postman or via CLI.
 
-- 👀 I’m interested in QA, automation, UI/UX, interior design
-- 🌱 I’m currently learning Postman automation
-- 💞️ I’m looking to collaborate on everything about QA
+- 👀 I’m interested in QA, automation, UI/UX design and best practices
+- 🌱 I’m currently learning Cypress and Playwright
+- 💞️ I’m looking to collaborate on everything about QA automation, API testing
 - 📫 How to reach me: https://www.linkedin.com/in/irinamurashko/?locale=en_US
 - 😄 Pronouns: she, her
 - ⚡ Fun fact: The green code in The Matrix was actually created from symbols in the code designer’s wife’s sushi cookbook.
